@@ -1,0 +1,17 @@
+
+
+		.table{
+			background-color: rgba(0, 0, 0, 0.575);
+			color: aliceblue;
+			font-family: sans-serif;
+			align-items: center;
+
+		}
+
+		legend{
+			font-size: 17px;
+			font-family: sans-serif;
+			font-weight: bold;
+			color: rgb(0, 0, 0);
+		}
+
